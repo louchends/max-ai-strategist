@@ -1,3 +1,3 @@
-from .agent import Agent
-from .task import Task
-from .crew import Crew
+from crewai.agent import Agent
+from crewai.task import Task
+from crewai.crew import Crew
